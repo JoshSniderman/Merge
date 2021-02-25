@@ -1,7 +1,5 @@
 # TheMerge
 
-### Analyzing Amazon Kindle Reviews over the span of 7 years. 
-
 ## Introduction:
 Amazon first released Kindle in 2007 - changing the way books were purchased and read. While it wasn’t the first e-reader ever made, it has proven to be the most successful. As one of Amazon’s top-selling items, it allows you to access books, magazines, newspapers, and more. This project focuses on Amazon reviews of books read by Kindle users. While there are limited dimensions in the data set, it will become clear that there is a plethora of analysis to be done on just reviews alone. 
 
